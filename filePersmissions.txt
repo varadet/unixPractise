@@ -1,0 +1,1 @@
+chmode 777 file.txt
