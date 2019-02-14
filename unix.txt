@@ -1,0 +1,5 @@
+sed -i 's/JAVA/PYTHON/g' 
+sed -i 's/C++/PYTHON/g'
+sed -i 's/CPP/PYTHON/g'
+sed -i 's/ORACLE/MYSQL/g'
+sed -i 's/DB2/MYSQL/g'
